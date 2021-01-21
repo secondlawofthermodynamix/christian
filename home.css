@@ -84,6 +84,15 @@ body {
   height: 50vh;
 }
 
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .name {
   font-family: Georgia, 'Times New Roman', Times, serif;
   ;
